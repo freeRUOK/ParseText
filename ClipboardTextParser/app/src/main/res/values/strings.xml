@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">剪贴板文本解析</string>
+    <string name="load_text">正在解析剪贴板…… 请稍后............</string>
+</resources>
